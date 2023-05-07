@@ -24,6 +24,7 @@ while True:
                 print("papar grabs YOU WIN")
             else:
                 print("you lose")
+                print("yes")
     else:
         print("Pls enter valid value😑")
     agani=input("Play again ?y|n  \n")
